@@ -1,4 +1,4 @@
-package com.example.healthcare; // Make sure this matches your project's actual package name!
+package com.example.Healthcare; // Make sure this matches your project's actual package name!
 
 import dev.langchain4j.model.chat.ChatLanguageModel;
 import org.springframework.beans.factory.annotation.Autowired;
