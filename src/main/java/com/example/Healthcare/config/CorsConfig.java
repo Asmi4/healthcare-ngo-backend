@@ -17,7 +17,7 @@ public class CorsConfig {
                 registry.addMapping("/**")
                         .allowedOrigins(
                                 "http://localhost:5173",
-                                "https://healthcare-ngo-frontend.vercel.app" // 👈 Replace with your actual Vercel link
+                                "https://healthcare-ngo-frontend-sg7p.vercel.app/" // 👈 Replace with your actual Vercel link
                         )
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
                         .allowedHeaders("*")
